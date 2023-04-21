@@ -9,4 +9,5 @@ Blender addon for aligning the model in the viewport relative to the selected fa
     1. Enter edit mode
     2. Select a face relative to which you want to align the position of the model
     3. Press the "Align the model" button to align the model without changing the
-      location of the origin, or "Align and change origin" to place the origin in the center of the selected face
+      location of the origin, or "Align and change origin" to place the origin in the
+      center of the selected face
